@@ -6,7 +6,7 @@ public class Cuadrado {
    private int lado;
    public Cuadrado(int d){
    Cola_Cuadrado = new LinkedList<Integer>();
-   this.lado4=d;
+   this.lado=d;
   }
   /*
     * metodos
