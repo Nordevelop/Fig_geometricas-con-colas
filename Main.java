@@ -9,8 +9,9 @@ import java.util.Qeue;
 
 public class Main {
 
-	public static void main(String[] args) {
-	   
-					Scanner entra=new Scanner(System.in);
+   public static void main(String[] args) {
+	Scanner entra=new Scanner(System.in);
+	Cuadrado d=null;
+	Rectangulo r=null;
      }
 }
