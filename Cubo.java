@@ -8,6 +8,6 @@ public class Cubo {
 	 * author Nordevelop
 	 */
 	private double lado7;
-	private Stack<double>Pila_Cubo = null:
+	private Queue<Integer>Cola_Clindro=null;
 	public Cubo(double u){ //constructor con argumento
 	   this.lado7=u;
