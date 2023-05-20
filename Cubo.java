@@ -8,9 +8,9 @@ public class Cubo {
 	 * author Nordevelop
 	 */
 	private double lado4;
-	private Queue<Integer>Cola_Clindro=null;
+	private Queue<Integer>Cola_Cubo=null;
 	public Cubo(double g){ //constructor con argumento
-	Cola_Rectangulo = new LinkedList<Integer>();
+	Cola_Cubo = new LinkedList<Integer>();
 	   this.lado4=g;
 	}
 	/*
