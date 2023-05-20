@@ -7,7 +7,7 @@ public class Pitagoras {
   private double cateto1;
 	private double cateto2;
   public Pitagoras( double c1, double c2) {//Constructor con parametros
-		 Cola_Rectangulo = new LinkedList<double>();
+		 Cola_Pitagoras = new LinkedList<double>();
 		this.cateto1=c1;
 		this.cateto2=c2;
 	}
