@@ -17,10 +17,10 @@ public class Cubo {
 	 * Metodos
 	 */
 	public double Dar_Area_Cubo(){
-		return (6*Math.pow(lado7, 2));
+		return (6*Math.pow(lado4, 2));
 	}
 	public double Dar_Volumen_Cubo(){
-		return (Math.pow(lado7, 3));
+		return (Math.pow(lado4, 3));
 	}
 }
 
