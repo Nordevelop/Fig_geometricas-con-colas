@@ -16,5 +16,8 @@ public class Main {
 	Cilindro l=null;
 	Circulo p=null;
 	Cubo s=null;
+	Queue<Cuadrado> Cola_Cuadrado = new Queue<Cuadrado>();
+	Queue<Rectangulo> Cola_Rectangulo = new Queue<Rectangulo>; 
+	Queue<Cilindro> Cola_Cilindro = new Queue<Cilindro>; 
      }
 }
