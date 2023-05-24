@@ -13,5 +13,8 @@ public class Main {
 	Scanner entra=new Scanner(System.in);
 	Cuadrado d=null;
 	Rectangulo r=null;
+	Cilindro l=null;
+	Circulo p=null;
+	Cubo s=null;
      }
 }
