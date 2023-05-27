@@ -3,9 +3,13 @@ import java.util.Stack;
 import java.math.*;
 
 public class Pitagoras {
+  /*no podemos aplicar metodos
+   * Getters&Setters porque
+   * por la llamada a las funciones del lenguaje Math
+   */
   private Queue<Integer>Cola_Pitagoras=null;
   private double cateto1;
-	private double cateto2;
+  private double cateto2;
   public Pitagoras( double c1, double c2) {//Constructor con parametros
 		 Cola_Pitagoras = new LinkedList<double>();
 		this.cateto1=c1;
